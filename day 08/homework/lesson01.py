@@ -1,0 +1,11 @@
+for i in range(1):
+    print("fries")
+    print("pasta")
+    print("pizza")
+    print("apple")
+    print("banana")
+    print("supe")
+    print("mwadi")
+    print("peraski")
+    print("potato")
+    print("fish")
