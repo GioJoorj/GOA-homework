@@ -1,0 +1,1 @@
+#keyword არის ელემენტი ანუ მაგალითად print,input,data type,return,def,if,range,for
