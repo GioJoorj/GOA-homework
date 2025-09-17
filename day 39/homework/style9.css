@@ -1,0 +1,18 @@
+#first{
+    color: rgb(255, 0, 0);
+}
+#second{
+    color: rgb(0, 255, 0);
+}
+#third{
+    color: rgb(0, 0, 255);
+}
+#forth{
+    color: rgb(255, 255, 0);
+}
+#fifth{
+    color: rgb(0, 255, 255);
+}
+#six{
+   color: rgb(255, 0, 255);
+}
